@@ -190,7 +190,9 @@ function getBotReply(msg) {
     return "🌈 'Believe in yourself even when no one else does.'";
   }
 
-  if (msg.includes("hello") || msg.includes("hi")) {
+  if (msg.includes("hello") || msg.includes("hi")) {<img width="1920" height="1200" alt="Screenshot 2026-01-09 143556" src="https://github.com/user-attachments/assets/888d00ab-7372-4dfb-89d1-553df5afb877" />
+<img width="1920" height="1200" alt="Screenshot 2026-01-09 143331" src="https://github.com/user-attachments/assets/d66f4c1a-ce93-40ab-8075-e9ea58e9adb3" />
+
     return "Hello 😊 I'm always here to listen and support you.";
   }
 
