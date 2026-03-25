@@ -201,6 +201,7 @@ function getBotReply(msg) {
   }
 
   return "I may not fully understand, but I'm listening 🤗 Tell me more.";
+  return " hi this is bot";
 }
 
 function toggleDark() {
